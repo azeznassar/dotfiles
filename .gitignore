@@ -1,0 +1,46 @@
+# node dependencies
+node_modules/
+
+# bundler cache
+.cache/
+
+# bundled files 
+dist/
+
+# composer vendor directory
+/vendor
+
+# build directory
+/_site
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# log files and databases
+*.log
+*.sql
+*.sqlite
+
+# compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# private files
+*.der
+*.key
+*.pem

@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Primal",
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "editor.lineHeight": 23,
+    "editor.fontSize": 15.5,
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1a1a1a",
+        "statusBar.debuggingBackground": "#511f1f",
+        "statusBar.noFolderBackground": "#1010ff",
+        "statusBar.foreground": "#f4f4f4",
+        "statusBar.noFolderForeground": "#f4f4f4"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "indentRainbow.indentSetter": {
+        "scss": { "tabSize": 4, "insertSpaces": false },
+    }
+}
